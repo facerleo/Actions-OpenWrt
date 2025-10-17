@@ -6,8 +6,8 @@
 # echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default                             #passwall
 # echo 'src-git liuran001_packages https://github.com/liuran001/openwrt-packages' >>feeds.conf.default                   #liuran001软件库
 # echo 'src-git small8 https://github.com/kenzok8/small-package' >>feeds.conf.default                                    #kenzok8    
-# echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default                                    #kenzok8软件库
-# echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default                                               #kenzok8软件库依赖
+echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default                                    #kenzok8软件库
+echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default                                               #kenzok8软件库依赖
 # echo 'src-git nas https://github.com/linkease/nas-packages.git;master' >> feeds.conf.default                           #易有云 luci-app-ddnsto和luci-app-linkease
 
 # git clone https://github.com/esirplayground/luci-app-poweroff.git package/lean/luci-app-poweroff                       #关机
