@@ -13,4 +13,3 @@ echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default      
 # git clone https://github.com/esirplayground/luci-app-poweroff.git package/lean/luci-app-poweroff                       #关机
 # git clone -b 18.06 https://github.com/garypang13/luci-theme-edge.git package/lean/luci-theme-edge                      #主题-edge-动态登陆界面
 # git clone https://github.com/mitsukileung/luci-app-filebrowser.git package/lean/luci-app-filebrowser                   #文件管理
-git clone https://github.com/QiuSimons/luci-app-daed.git package/lean/luci-app-daed
